@@ -2,7 +2,7 @@ public class KillCilantro {
 
    public static String killCilantro(String sentence){
       String find = "cilantro";
-      String replace = "parsely";
+      String replace = "parsley";
       String output = sentence;
       int killLoc = sentence.indexOf(find);
       
